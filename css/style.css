@@ -1,7 +1,7 @@
 body {
     background: url("../imagenes/jarely.png");
-    background-size:cover;
     background-attachment: fixed;
+    background-size: cover;
     color:red;
     font-size: 20px;
 }
