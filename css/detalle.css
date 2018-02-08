@@ -1,4 +1,7 @@
 body{
     background: url("../imagenes/bella.jpg");
-    background-size:cover;
+    background-repeat: no-repeat;
+    background-size:360px;
+    background-attachment: fixed;
+    color:white;
 }
