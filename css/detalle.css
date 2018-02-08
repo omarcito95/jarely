@@ -2,7 +2,7 @@ body{
     background: url("../imagenes/bella.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 480px;
+    background-size: 400px;
     color:red;
     font-size: 20px;
 }
