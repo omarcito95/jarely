@@ -1,5 +1,7 @@
 body{
     background: url("../imagenes/bella.jpg");
+    background-attachment: fixed;
+    background-size:cover;
     color:blue;
     font-size: 20px;
 }
